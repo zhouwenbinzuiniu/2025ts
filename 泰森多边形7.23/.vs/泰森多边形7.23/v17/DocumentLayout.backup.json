@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\triangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:triangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|d:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\myalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:myalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\image\\image8.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:image\\image8.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\filehelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45408C3-C182-4D06-95E1-DF1B7EA956E1}|\u6CF0\u68EE\u591A\u8FB9\u5F627.23.csproj|solutionrelative:filehelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 908,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAArwFgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:28:40.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Image8.bmp",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\image\\Image8.bmp",
+              "RelativeDocumentMoniker": "image\\Image8.bmp",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\image\\Image8.bmp",
+              "RelativeToolTip": "image\\Image8.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-23T12:31:45.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileHelp.cs",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\FileHelp.cs",
+              "RelativeDocumentMoniker": "FileHelp.cs",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\FileHelp.cs",
+              "RelativeToolTip": "FileHelp.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwHUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:55:47.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyAlog.cs",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\MyAlog.cs",
+              "RelativeDocumentMoniker": "MyAlog.cs",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\MyAlog.cs",
+              "RelativeToolTip": "MyAlog.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAQwFcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:53:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Edge.cs",
+              "RelativeDocumentMoniker": "Edge.cs",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Edge.cs",
+              "RelativeToolTip": "Edge.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:52:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangel.cs",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Triangel.cs",
+              "RelativeDocumentMoniker": "Triangel.cs",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Triangel.cs",
+              "RelativeToolTip": "Triangel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:40:59.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyPoint.cs",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\MyPoint.cs",
+              "RelativeDocumentMoniker": "MyPoint.cs",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\MyPoint.cs",
+              "RelativeToolTip": "MyPoint.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:39:37.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\7.23\u5230\u6BD4\u8D5B\u6700\u7EC8\u6A21\u62DF\u9879\u76EEvs2022\\\u6CF0\u68EE\u591A\u8FB9\u5F627.23\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:39:22.31Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
